@@ -236,5 +236,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <b>Built with ❤️ on AMD Kria KR260 | HW-SW Co-Design Made Simple</b>
+  <b>Built with ❤️ Naresh Lankalapalli | HW-SW Co-Design Made Simple</b>
 </p>
