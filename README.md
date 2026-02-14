@@ -201,17 +201,7 @@ To find the correct FPGA pin for the PMOD connector:
 
 ---
 
-## 📂 Repository Structure
 
-```
-Blinky_driver/
-├── README.md                    # This file
-├── blinky_doc_final.pdf         # Complete step-by-step documentation
-├── blinky_doc_final.odt         # Documentation (editable)
-├── blinky_doc(raw).odt          # Raw documentation notes
-├── Blinky_log_terminal.odt      # Terminal session logs from KR260
-└── Mails.odt                    # Reference communications
-```
 
 ---
 
